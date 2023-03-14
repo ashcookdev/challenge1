@@ -10,6 +10,8 @@ This is a challenge where we have been asked to turn all divs to semantic html a
 #Badges No badge required
 
 #Visuals Please see screenshots of the working version
+![image](https://user-images.githubusercontent.com/117311931/225054877-e9510ea8-734c-43dc-93f6-c4522de45fac.png)
+
 
 #Installation
 
