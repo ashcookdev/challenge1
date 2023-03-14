@@ -1,43 +1,34 @@
 # Challenge 1
 
-## Installation
+#Name Challenge 1 
 
-This is website that was built for the purpose of knowledge of the clients product and services.
+https://ashcookdev.github.io/challenge1/
 
+#Description 
+This is a challenge where we have been asked to turn all divs to semantic html and organise the css.
 
-## Usage 
+#Badges No badge required
 
-Provide instructions and examples for use. Include screenshots as needed. 
+#Visuals Please see screenshots of the working version
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+#Installation
 
-```md
-![alt text](assets/images/screenshot.png)
-```
+No Istallation needed.
 
+#Usage
+A site to display a companies products and services
 
-## Credits
+#Support 
+Contact Ashley Cook
 
-Ashley Cook.
+#Roadmap 
+No more releases
 
+#Contributing 
+No contributions needed.
 
-## License
+#Authors and acknowledgment Ashley Cook
 
-MIT License provided on GITHUB
+#License MIT license
 
-
----
-
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, consider adding a heading called "Features" and listing them there.
-## Tests
-
+#Project status Complete
