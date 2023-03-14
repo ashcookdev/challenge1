@@ -14,6 +14,9 @@ This is a challenge where we have been asked to turn all divs to semantic html a
 
 ![image](https://user-images.githubusercontent.com/117311931/225055607-7eb70cf1-ad08-4583-a8bd-8aa39b69d2eb.png)
 
+![image](https://user-images.githubusercontent.com/117311931/225056145-3c41d3d0-4a5a-4680-ac36-4d4aef9b81e1.png)
+
+
 
 #Installation
 
