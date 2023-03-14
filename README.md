@@ -12,6 +12,8 @@ This is a challenge where we have been asked to turn all divs to semantic html a
 #Visuals Please see screenshots of the working version
 ![image](https://user-images.githubusercontent.com/117311931/225054877-e9510ea8-734c-43dc-93f6-c4522de45fac.png)
 
+![image](https://user-images.githubusercontent.com/117311931/225055607-7eb70cf1-ad08-4583-a8bd-8aa39b69d2eb.png)
+
 
 #Installation
 
