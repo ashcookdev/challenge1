@@ -13,7 +13,7 @@ This is a challenge where we have been asked to turn all divs to semantic html a
 
 #Installation
 
-No Istallation needed.
+No Installation needed.
 
 #Usage
 A site to display a companies products and services
